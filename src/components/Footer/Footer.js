@@ -29,7 +29,7 @@ const Footer = () => {
             </div>
 
             <div className='mt-3 text-center'>
-                <a href='https://github.com/shikharbhardwaj3110' style={customAnchor}>
+                <a href='https://github.com/shikharbhardwaj3110/Pokezone' style={customAnchor}>
                     <AiFillGithub size={30} />
                 </a>
                 <a href='https://www.linkedin.com/in/shikhar-bhardwaj-8080ba180/' style={customAnchor}>
